@@ -1,2 +1,2 @@
-# Learning-Git-
-learning git with Ankita
+# Learning-Git
+learning git 
